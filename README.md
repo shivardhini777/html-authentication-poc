@@ -1,18 +1,31 @@
-# HTML Authentication System POC
+# HTML Authentication System (Styled with Bootstrap)
 
-This project is a simple HTML-based authentication system created for CampusPe assignment.
+##  Project Description
+This project is a fully styled HTML Authentication System built using Bootstrap 5 and custom CSS. It includes login, registration, password reset, and dashboard pages.
 
-## Pages
-1. Login Page
-2. Registration Page
-3. Forgot Password Page
-4. Reset Password Page
-5. Dashboard Page
+##  Features
+- Responsive design (Mobile, Tablet, Desktop)
+- Bootstrap 5 UI components
+- Custom gradient background
+- Clean card-based layout
+- Navigation between pages
+- Styled buttons and inputs
 
-## Features
-- Basic HTML forms
-- Page redirection using anchor tags
-- No CSS or JavaScript
+##  Technologies Used
+- HTML5
+- CSS3
+- Bootstrap 5
+- Google Fonts
 
-## Author
+##  Pages Included
+- Login Page
+- Registration Page
+- Forgot Password Page
+- Reset Password Page
+- Dashboard Page
+
+##  Screenshots
+Screenshots are available in the `screenshots` folder.
+
+##  Author
 Shivardhini K S
